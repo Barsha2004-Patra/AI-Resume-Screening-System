@@ -1,0 +1,21 @@
+==================================================
+AI RESUME SCREENING REPORT
+==================================================
+Generated on: 2026-06-17 09:30:16
+Candidate Name: Barsha Patra
+Source File: Resume (2).pdf (1).pdf (1).pdf
+Target Job Role: Data Analyst
+--------------------------------------------------
+OVERALL MATCH SCORE: 23.13%
+--------------------------------------------------
+
+MATCHED SKILLS:
+git, pandas, python
+
+MISSING REQUISITE SKILLS:
+agile, excel, numpy, powerbi, scipy, sql, tableau
+
+--------------------------------------------------
+Status Recommendation:
+LOW MATCH - Archive profile for future opportunities.
+==================================================

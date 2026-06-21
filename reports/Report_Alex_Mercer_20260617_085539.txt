@@ -1,0 +1,21 @@
+==================================================
+AI RESUME SCREENING REPORT
+==================================================
+Generated on: 2026-06-17 08:55:39
+Candidate Name: Alex Mercer
+Source File: Alex_Data_Scientist.pdf.pdf
+Target Job Role: Senior Python & AI Engineer
+--------------------------------------------------
+OVERALL MATCH SCORE: 78.37%
+--------------------------------------------------
+
+MATCHED SKILLS:
+bert, ci/cd, django, docker, fastapi, git, gpt, kubernetes, llm, microservices, mongodb, nlp, postgresql, python, pytorch, scikit-learn, tensorflow
+
+MISSING REQUISITE SKILLS:
+None
+
+--------------------------------------------------
+Status Recommendation:
+STRONG MATCH - Proceed immediately to technical review screening.
+==================================================
