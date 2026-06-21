@@ -2,44 +2,46 @@
 
 ## Overview
 
-AI Resume Screening System is an intelligent recruitment assistance platform designed to automate resume evaluation and candidate shortlisting. The system analyzes resumes, extracts relevant information, compares candidate profiles against job requirements, and generates screening reports to assist recruiters in making data-driven hiring decisions.
+AI Resume Screening System is a web-based application designed to automate the initial resume screening process. The system analyzes candidate resumes, extracts relevant information, evaluates profiles against job requirements, and generates structured reports to assist recruiters in shortlisting candidates efficiently.
 
-The project streamlines the initial stages of recruitment by reducing manual effort, improving consistency, and accelerating candidate evaluation.
+The goal of the project is to reduce manual screening effort, improve consistency in candidate evaluation, and streamline the recruitment workflow.
 
 ---
 
-## Key Features
+## Features
 
-### Resume Processing
+### Resume Analysis
 
-* Upload resumes for automated analysis
-* Extract candidate information from resumes
-* Process multiple resume formats
+* Upload and process candidate resumes
+* Extract key candidate information
+* Analyze qualifications, skills, and experience
+* Organize resume data into a structured format
 
-### Candidate Evaluation
+### Candidate Screening
 
-* Analyze candidate profiles
-* Match resumes against job requirements
+* Evaluate candidate profiles against defined criteria
 * Generate screening scores
-* Identify relevant skills and qualifications
+* Compare multiple candidates
+* Assist in shortlisting decisions
 
-### Reporting
+### Report Generation
 
 * Generate detailed screening reports
-* Candidate ranking and comparison
-* Structured evaluation summaries
+* Store evaluation results
+* Provide structured candidate summaries
 
-### Database Integration
+### Database Management
 
-* Store candidate information
-* Maintain screening records
-* Retrieve historical evaluation data
+* Store candidate information securely
+* Maintain screening history
+* Manage recruitment records efficiently
 
-### Web-Based Interface
+### User Interface
 
-* User-friendly dashboard
+* Simple and intuitive web interface
 * Resume upload functionality
-* Interactive result visualization
+* Real-time screening workflow
+* Results visualization and reporting
 
 ---
 
@@ -48,8 +50,8 @@ The project streamlines the initial stages of recruitment by reducing manual eff
 ### Backend
 
 * Python
-* Flask/FastAPI
-* SQL Database
+* Flask
+* SQLAlchemy
 
 ### Data Processing
 
@@ -62,7 +64,7 @@ The project streamlines the initial stages of recruitment by reducing manual eff
 * HTML
 * CSS
 * JavaScript
-* Jinja Templates
+* Jinja2 Templates
 
 ### Database
 
@@ -75,15 +77,15 @@ The project streamlines the initial stages of recruitment by reducing manual eff
 ```text
 AI-Resume-Screening-System/
 │
-├── reports/
-├── services/
-├── static/
-├── templates/
+├── reports/          # Generated screening reports
+├── services/         # Business logic and processing services
+├── static/           # CSS, JavaScript, and assets
+├── templates/        # HTML templates
 │
-├── database.py
-├── models.py
-├── main.py
-├── requirements.txt
+├── database.py       # Database configuration
+├── models.py         # Database models
+├── main.py           # Application entry point
+├── requirements.txt  # Project dependencies
 └── README.md
 ```
 
@@ -91,10 +93,10 @@ AI-Resume-Screening-System/
 
 ## Installation
 
-### Clone the Repository
+### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/AI-Resume-Screening-System.git
+git clone https://github.com/Barsha2004-Patra/AI-Resume-Screening-System.git
 cd AI-Resume-Screening-System
 ```
 
@@ -106,13 +108,13 @@ python -m venv venv
 
 ### Activate Environment
 
-Windows:
+Windows
 
 ```bash
 venv\Scripts\activate
 ```
 
-Linux/Mac:
+Linux / Mac
 
 ```bash
 source venv/bin/activate
@@ -124,43 +126,39 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### Run the Application
+### Run Application
 
 ```bash
 python main.py
 ```
 
-or
+Open the application in your browser after the server starts.
 
-```bash
-uvicorn main:app --reload
-```
+---
+
+## Key Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+* Building full-stack Python applications
+* Designing and integrating databases
+* Resume data processing and analysis
+* Backend service development
+* Web application architecture
+* Git and GitHub version control workflows
 
 ---
 
 ## Future Enhancements
 
-* Advanced NLP-based skill extraction
-* Resume-job semantic matching
-* Machine Learning candidate ranking
-* Resume recommendation engine
-* Recruiter analytics dashboard
-* PDF report generation
-* Authentication and role-based access control
-* Docker deployment
-
----
-
-## Learning Outcomes
-
-Through this project, I gained hands-on experience in:
-
-* Building end-to-end AI-powered applications
-* Backend development using Python
-* Database design and integration
-* Resume data processing and analysis
-* Web application development
-* Software project structuring and deployment workflows
+* Advanced NLP-based resume parsing
+* Job description matching
+* Candidate ranking algorithms
+* Skill gap analysis
+* Recruiter dashboard and analytics
+* Authentication and authorization
+* Export reports to PDF
+* Cloud deployment
 
 ---
 
@@ -170,4 +168,8 @@ Through this project, I gained hands-on experience in:
 
 B.Tech Computer Science Engineering
 
-Aspiring Data Science and AI Professional
+Aspiring Data Science & AI Engineer
+
+---
+
+### ⭐ If you found this project useful, consider giving it a star.
