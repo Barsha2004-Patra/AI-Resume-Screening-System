@@ -32,3 +32,8 @@ htmlcov/
 # Build Files
 build/
 dist/
+
+reports/*.txt
+uploads/
+venv/
+__pycache__/
