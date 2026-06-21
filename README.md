@@ -45,6 +45,40 @@ The goal of the project is to reduce manual screening effort, improve consistenc
 
 ---
 
+## Screenshots
+
+### Home Dashboard
+
+![Home Dashboard](screenshots/home_dashboard.png)
+
+Main dashboard where recruiters enter job requirements and upload candidate resumes.
+
+---
+
+### Job Specification Example
+
+![Job Specification Example](screenshots/job_input_example.png)
+
+Example showing a completed job description with required skills and responsibilities.
+
+---
+
+### Candidate Ranking Results
+
+![Candidate Ranking Results](screenshots/candidate_ranking.png)
+
+Candidates are ranked according to their match percentage, identified skills, and missing competencies.
+
+---
+
+### Skill Gap Analysis
+
+![Skill Gap Analysis](screenshots/skill_gap_analysis.png)
+
+Visualization of candidate match scores and recommendations for closing skill gaps.
+
+---
+
 ## Technology Stack
 
 ### Backend
