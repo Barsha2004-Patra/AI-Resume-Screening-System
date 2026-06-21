@@ -57,7 +57,7 @@ Main dashboard where recruiters enter job requirements and upload candidate resu
 
 ### Job Specification Example
 
-![Job Specification Example](screenshots/job_input_example.png)
+![Job Specification Example](screenshots/screening_input.png)
 
 Example showing a completed job description with required skills and responsibilities.
 
@@ -65,7 +65,7 @@ Example showing a completed job description with required skills and responsibil
 
 ### Candidate Ranking Results
 
-![Candidate Ranking Results](screenshots/candidate_ranking.png)
+![Candidate Ranking Results](screenshots/ranking_results.png)
 
 Candidates are ranked according to their match percentage, identified skills, and missing competencies.
 
